@@ -10,6 +10,10 @@ The system processes the input Excel file, performs data filtering and validatio
 
 A standalone Windows executable is provided, allowing the reporting workflow to be executed without requiring Python or any additional programming environment.
 
+## Download
+
+[Download Windows Executable](./dist/test2-good.exe)
+
 ## Key Features
 
 - Automated processing of airline operational data
